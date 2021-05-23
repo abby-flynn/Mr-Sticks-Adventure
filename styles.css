@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.play {
+    height: 10px;
+    margin: 100px;
+    padding: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.stick {
+    height: 200px;
+}
+
+.options1 {
+    margin: 100px;
+}
+
+.options2cali {
+    margin: 100px;
+}
+
+.choice1 {
+    display: none;
+}
+
+.cali {
+    display: none;
+}
+
+.options2chicago {
+    margin: 100px;
+}
+
+.optionsincali {
+    margin: 100px;
+}
+
+.optionsinchicago {
+    margin: 100px;
+}
+
+.chicago {
+    display: none;
+}
+
+.flycalidie {
+    display: none;
+}
+
+.drivechicagodie {
+    display: none;
+}
+
+.wheretocali {
+    display: none;
+}
+
+.wheretochicago {
+    display: none;
+}
+
+.beachcalidie {
+    display: none;
+}
+
+.hotelchicagodie {
+    display: none;
+}
+
+.caliending {
+    display: none;
+}
+
+.chicagoending {
+    display: none;
+}
